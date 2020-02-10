@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emaillist/static/css/main.d1b05096.chunk.css",
+    "main.js": "/emaillist/static/js/main.53024099.chunk.js",
+    "main.js.map": "/emaillist/static/js/main.53024099.chunk.js.map",
+    "runtime-main.js": "/emaillist/static/js/runtime-main.3bc19acd.js",
+    "runtime-main.js.map": "/emaillist/static/js/runtime-main.3bc19acd.js.map",
+    "static/js/2.a9ed1bfe.chunk.js": "/emaillist/static/js/2.a9ed1bfe.chunk.js",
+    "static/js/2.a9ed1bfe.chunk.js.map": "/emaillist/static/js/2.a9ed1bfe.chunk.js.map",
+    "index.html": "/emaillist/index.html",
+    "precache-manifest.92932cdb7229d106ca936631272487e4.js": "/emaillist/precache-manifest.92932cdb7229d106ca936631272487e4.js",
+    "service-worker.js": "/emaillist/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/emaillist/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a9ed1bfe.chunk.js.LICENSE.txt": "/emaillist/static/js/2.a9ed1bfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bc19acd.js",
+    "static/js/2.a9ed1bfe.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.53024099.chunk.js"
+  ]
+}
